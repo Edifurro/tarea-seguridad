@@ -19,6 +19,10 @@ npm run build
 ```
 npm run lint
 ```
+### Cambia tus credenciales de firebase y crea nuevas reglas :D
+```
+sexo
+```
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
